@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b837286-bf05-44f5-952b-94ee434e41f7" name="Default Changelist" comment="1.15" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Kotlin Script" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kxR5d1uhKarPtEbfbMd9dzKtlH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="15" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day04" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.itcast.day10.demo03" />
+      <recent name="cn.itcast.day10.demo02" />
+      <recent name="cn.itcast.day10.demo01" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.itcast.day09.demo13" />
+      <recent name="cn.itcast.day09.demo12" />
+      <recent name="cn.itcast.day09.demo10" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.P44_VariableExchange">
+    <configuration name="交换" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="教材案例和作业.交换" />
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="教材案例和作业.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo01Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04.Demo01Operator" />
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodSame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.day04.demo03.MethodSame" />
+      <module name="day04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.day04.demo03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OverloadPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.day04.demo04.OverloadPrint" />
+      <module name="day04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.day04.demo04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P44_VariableExchange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="教材案例和作业.P44_VariableExchange" />
+      <module name="study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="教材案例和作业.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.P44_VariableExchange" />
+        <item itemvalue="Application.Demo01Operator" />
+        <item itemvalue="Application.MethodSame" />
+        <item itemvalue="Application.交换" />
+        <item itemvalue="Application.OverloadPrint" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b837286-bf05-44f5-952b-94ee434e41f7" name="Default Changelist" comment="" />
+      <created>1606640073024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606640073024</updated>
+      <workItem from="1606640074419" duration="128000" />
+      <workItem from="1606640206169" duration="4063000" />
+      <workItem from="1606727787633" duration="2126000" />
+      <workItem from="1606731706720" duration="11961000" />
+      <workItem from="1607848152765" duration="8724000" />
+      <workItem from="1607920166248" duration="24036000" />
+      <workItem from="1608035242694" duration="4783000" />
+      <workItem from="1608041413146" duration="114000" />
+      <workItem from="1608546599462" duration="600000" />
+      <workItem from="1608610204165" duration="45000" />
+      <workItem from="1608613155161" duration="410000" />
+      <workItem from="1608613733588" duration="2517000" />
+      <workItem from="1609067103123" duration="20000" />
+      <workItem from="1609068697896" duration="1464000" />
+      <workItem from="1609070245909" duration="10000" />
+      <workItem from="1609132943191" duration="2173000" />
+      <workItem from="1609136403993" duration="83000" />
+      <workItem from="1609136519036" duration="43000" />
+      <workItem from="1609136818368" duration="8000" />
+      <workItem from="1609136851032" duration="20000" />
+      <workItem from="1609136889052" duration="5034000" />
+      <workItem from="1609209199472" duration="638000" />
+      <workItem from="1609211143988" duration="216000" />
+      <workItem from="1609211449642" duration="339000" />
+      <workItem from="1609211808423" duration="4489000" />
+      <workItem from="1609217465286" duration="8243000" />
+      <workItem from="1609234770439" duration="609000" />
+      <workItem from="1609326568424" duration="67000" />
+      <workItem from="1609327556804" duration="45000" />
+      <workItem from="1609332742671" duration="1487000" />
+      <workItem from="1610690019344" duration="55000" />
+      <workItem from="1610690773781" duration="8000" />
+      <workItem from="1610690823484" duration="1028000" />
+      <workItem from="1610715631105" duration="8000" />
+      <workItem from="1610955632032" duration="819000" />
+      <workItem from="1622945332649" duration="85000" />
+      <workItem from="1622945434461" duration="99000" />
+      <workItem from="1622946800473" duration="69000" />
+      <workItem from="1624157224464" duration="47000" />
+      <workItem from="1624157289230" duration="8046000" />
+      <workItem from="1624258231857" duration="301000" />
+      <workItem from="1624259128530" duration="26000" />
+      <workItem from="1624259168002" duration="23000" />
+      <workItem from="1624259205031" duration="54000" />
+      <workItem from="1624259274413" duration="18000" />
+      <workItem from="1624259305949" duration="51000" />
+    </task>
+    <task id="LOCAL-00001" summary="12.29">
+      <created>1609136003362</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609136003362</updated>
+    </task>
+    <task id="LOCAL-00002" summary="12.29">
+      <created>1609136029074</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609136029074</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="12.29" />
+    <option name="LAST_COMMIT_MESSAGE" value="12.29" />
+  </component>
+</project>
