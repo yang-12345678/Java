@@ -8,7 +8,7 @@ public interface MyInterfaceDefault {
 //    public abstract void methodB();
 
     // 新添加默认方法
-    public default void methodDefault(){
+    default void methodDefault(){
         System.out.println("新添加的默认方法");
     }
 }

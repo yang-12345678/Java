@@ -6,6 +6,14 @@ import java.util.ArrayList;
 public class Manager extends User {
 
     public Manager() {
+
+    }
+
+    public Manager(String name, int money) {
+        super(name, money);
+    }
+
+    public ArrayList<Integer> send(int totalMoney, int count) {
         // 首先需要一个集合，用来存储若干个红包的金额
         ArrayList<Integer> redList = new ArrayList<>();
 
@@ -36,12 +44,5 @@ public class Manager extends User {
 
         return redList;
 
-    }
-
-    public Manager(String name, int money) {
-        super(name, money);
-    }
-
-    public ArrayList<Integer> send(int totalMoney, int count) {
     }
 }

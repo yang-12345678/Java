@@ -12,7 +12,7 @@ public class Demo06StringPractice {
 
         for (int i = 0; i < array.length; i++) {
             if (i == array.length - 1)
-                str = "word" + array[i] + "}";
+                str += "word" + array[i] + "}";
             else
                 str += "word" + array[i] + "#";
         }
