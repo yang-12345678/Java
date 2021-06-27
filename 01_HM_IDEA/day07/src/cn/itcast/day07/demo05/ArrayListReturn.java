@@ -20,10 +20,11 @@ public class ArrayListReturn {
         ArrayList<Integer> smallList = getSmallList(bigList);
 
         System.out.println("偶数共有" + smallList.size() + "个：");
-        for (int i = 0; i < smallList.size(); i++) {
-            System.out.println(smallList.get(i));
+        for (Integer integer : smallList) {
+            System.out.println(integer);
         }
     }
+
     public static ArrayList<Integer> getSmallList(ArrayList<Integer> list) {
         ArrayList<Integer> smallList = new ArrayList<>();
         for (int i = 0; i < list.size(); i++) {
