@@ -10,7 +10,7 @@ public class Demo01Main {
         animal.eat();
 //        animal.catchMouse();  // 错误写法
 
-        // 向下转型，进行‘换原’动作
+        // 向下转型，进行‘还原’动作
         Cat cat = (Cat) animal;
         cat.catchMouse();
 
