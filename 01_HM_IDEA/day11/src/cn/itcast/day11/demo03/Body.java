@@ -10,7 +10,7 @@ public class Body {  // 外部类
         }
     }
 
-    private String name; // 外部类的成员成员变量
+    private String name; // 外部类的成员变量
 
     public String getName() {
         return name;
