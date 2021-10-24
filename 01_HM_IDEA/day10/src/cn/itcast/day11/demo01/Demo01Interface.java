@@ -1,7 +1,6 @@
 package cn.itcast.day11.demo01;
 
 public class Demo01Interface {
-
     public static void main(String[] args) {
         // 不能直接 new 接口对象使用。创建实现类的对象使用
         MyInterfaceAbstractImpl impl = new MyInterfaceAbstractImpl();
